@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1060562916327",
+    "firebase_url": "https://beaconsample-216710.firebaseio.com",
+    "project_id": "beaconsample-216710",
+    "storage_bucket": "beaconsample-216710.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060562916327:android:dc5aa5cf436d2208bc6342",
+        "android_client_info": {
+          "package_name": "com.clevertap.tamtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060562916327-3b60udtqq1egjfpc6sj3rv5dr3a5b2p4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQFbk2cgHYWdTd_AaJ_AdWKdWjPXdyn6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060562916327-3b60udtqq1egjfpc6sj3rv5dr3a5b2p4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
